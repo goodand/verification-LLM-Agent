@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "python": {
+            "requirements": [
+                "langgraph",
+                "langchain-core",
+                "langchain-openai"
+            ]
+        }
+    },
+    "graphs": {
+        "minimal-chat": {
+            "path": "graph:get_minimal_graph"
+        }
+    }
+}
