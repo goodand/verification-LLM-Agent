@@ -8,3 +8,8 @@ will create an agent with multiple layers, including parsing, lexical verificati
 * **LLM-Agent 포트폴리오 목적**
 * **LLM-Agent 문서 검증 용도 실제 사용 목적**
     * 추후 DB사용시 입출력 과정 컬럼 적합성 검사 목적
+
+
+
+MVP 개발 단계
+- 1차 목표
